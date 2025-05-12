@@ -6,3 +6,4 @@ Kolejna zmiana
 Test Tokena
 moja zmiana
 nowa linijka
+hejka 
