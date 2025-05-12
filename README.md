@@ -1,8 +1,9 @@
 # learn_git_repo
 test test test
-some text
+some more text
 Dawno, dawno temu...
-Kolejna zmiana 
+Kolejna zmiana!!!
 Test Tokena
 moja zmiana
 nowa linijka
+another line of text
