@@ -2,7 +2,8 @@
 test test test
 some text
 Dawno, dawno temu...
-Kolejna zmiana 
+Kolejna zmiana!!!
 Test Tokena
 moja zmiana
 nowa linijka
+heeeeeej
