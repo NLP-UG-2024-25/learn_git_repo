@@ -5,4 +5,3 @@ Dawno, dawno temu...
 Kolejna zmiana 
 Test Tokena
 moja zmiana
-nowa linijka
