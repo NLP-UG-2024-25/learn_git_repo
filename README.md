@@ -3,6 +3,7 @@ test test test
 some more text
 Dawno, dawno temu...
 Kolejna zmiana!!!
+this line was changed
 Test Tokena dmwqkdwqidwqodwqnio
 moja zmiana
 nowa linijka
@@ -10,4 +11,5 @@ another line of text
 
 text text text
 more text more text
+even more text
 scnajkvdnjognvevenow
